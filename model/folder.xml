@@ -1,5 +1,10 @@
 <archimate:ArchimateModel
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="(new model)"
+    name="ProyectoIngeSoftII"
     id="id-6f0ec7b933814d88b266f03f29ccca98"
-    version="5.0.0"/>
+    version="5.0.0">
+  <profiles
+      name="Simulado por IA"
+      id="id-44c90564bb874c0ea5cbfc6be7663834"
+      conceptType="Stakeholder"/>
+</archimate:ArchimateModel>

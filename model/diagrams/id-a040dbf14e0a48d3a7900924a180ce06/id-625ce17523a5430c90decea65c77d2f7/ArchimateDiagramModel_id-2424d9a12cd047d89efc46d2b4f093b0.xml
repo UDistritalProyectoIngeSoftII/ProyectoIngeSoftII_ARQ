@@ -5,7 +5,8 @@
     id="id-2424d9a12cd047d89efc46d2b4f093b0">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-ecb363457f834fe7a97a08a7b6efaad0">
+      id="id-ecb363457f834fe7a97a08a7b6efaad0"
+      targetConnections="id-de3f981fada846639e0815e3b14d15b4">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-0fb2743388fb43a7a58af41904395f64"
@@ -63,6 +64,15 @@
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-6de38c19fb8f4b3a80b7ffbfc5e20e9a.xml#id-6de38c19fb8f4b3a80b7ffbfc5e20e9a"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-de3f981fada846639e0815e3b14d15b4"
+        source="id-250135efc4b24764bec4216d09c03124"
+        target="id-ecb363457f834fe7a97a08a7b6efaad0">
+      <archimateRelationship
+          xsi:type="archimate:InfluenceRelationship"
+          href="InfluenceRelationship_id-35c027bf8eeb452c9c351e5822c47fd1.xml#id-35c027bf8eeb452c9c351e5822c47fd1"/>
+    </sourceConnections>
     <bounds
         x="60"
         y="120"
@@ -94,7 +104,7 @@
           href="AssociationRelationship_id-870d7be9cb1c45e4b2846576350c3447.xml#id-870d7be9cb1c45e4b2846576350c3447"/>
     </sourceConnections>
     <bounds
-        x="804"
+        x="768"
         y="120"
         width="171"
         height="55"/>
@@ -114,8 +124,17 @@
     <features
         name="lineStyle"
         value="1"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-0f60fce15b8443aebeea19a6b53026b9"
+        source="id-1c78e9c5ba6143fb8f78c059c0e8793c"
+        target="id-b4972d9caba148d5aab62bb79deb49aa">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-cdce5ab24c994a0d8766568c81c888cd.xml#id-cdce5ab24c994a0d8766568c81c888cd"/>
+    </sourceConnections>
     <bounds
-        x="1092"
+        x="1032"
         y="120"
         width="171"
         height="55"/>
@@ -199,7 +218,7 @@
         name="lineStyle"
         value="1"/>
     <bounds
-        x="816"
+        x="780"
         y="223"
         width="137"
         height="55"/>
@@ -209,7 +228,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-b4972d9caba148d5aab62bb79deb49aa">
+      id="id-b4972d9caba148d5aab62bb79deb49aa"
+      targetConnections="id-0f60fce15b8443aebeea19a6b53026b9">
     <features
         name="gradient"
         value="3"/>
@@ -217,7 +237,7 @@
         name="lineStyle"
         value="1"/>
     <bounds
-        x="1118"
+        x="1058"
         y="223"
         width="120"
         height="55"/>

@@ -184,8 +184,8 @@
     <bounds
         x="504"
         y="372"
-        width="133"
-        height="55"/>
+        width="121"
+        height="73"/>
     <archimateElement
         xsi:type="archimate:Goal"
         href="Goal_id-afdaeb2e6e9c4f07a97db0b188d860b6.xml#id-afdaeb2e6e9c4f07a97db0b188d860b6"/>
@@ -197,8 +197,8 @@
     <bounds
         x="552"
         y="220"
-        width="152"
-        height="61"/>
+        width="169"
+        height="81"/>
     <archimateElement
         xsi:type="archimate:Goal"
         href="Goal_id-b85661c7320c4aa2b82f372344401ec5.xml#id-b85661c7320c4aa2b82f372344401ec5"/>
@@ -248,8 +248,8 @@
     <bounds
         x="1058"
         y="223"
-        width="120"
-        height="55"/>
+        width="119"
+        height="78"/>
     <archimateElement
         xsi:type="archimate:Goal"
         href="Goal_id-6eb7cc4ad24546488748572bcf80e214.xml#id-6eb7cc4ad24546488748572bcf80e214"/>

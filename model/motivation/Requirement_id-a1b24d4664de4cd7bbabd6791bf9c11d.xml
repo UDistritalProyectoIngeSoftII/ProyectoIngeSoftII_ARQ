@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mostrar Mapa"
+    id="id-a1b24d4664de4cd7bbabd6791bf9c11d"
+    documentation="La aplicación web debe mostrar un mapa interactivo con los marcadores de cada estación."/>

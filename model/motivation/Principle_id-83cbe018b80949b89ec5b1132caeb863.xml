@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Principio de Arquitectura Abierta y Gratuita"
+    id="id-83cbe018b80949b89ec5b1132caeb863"
+    documentation="Restricción (RNF-03, Restricciones de Negocio): El diseño de la solución debe restringirse al uso de herramientas de Software Libre o versiones gratuitas/Free Tier de AWS."/>

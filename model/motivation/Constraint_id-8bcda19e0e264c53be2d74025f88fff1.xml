@@ -1,0 +1,5 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Restricción de Alcance Académico"
+    id="id-8bcda19e0e264c53be2d74025f88fff1"
+    documentation="El sistema tiene fines exclusivamente académicos. No debe contemplarse su despliegue en entornos productivos."/>

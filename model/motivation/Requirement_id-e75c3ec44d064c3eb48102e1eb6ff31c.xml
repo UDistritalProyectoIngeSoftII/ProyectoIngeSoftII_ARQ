@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registrar CO2"
+    id="id-e75c3ec44d064c3eb48102e1eb6ff31c"
+    documentation="El software debe permitir tener un registro del CO2 para determinar las condiciones del oxígeno en  esa zona."/>

@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registrar Humedad"
+    id="id-51951ad487be434c94f7c8785497d5da"
+    documentation="El software debe permitir tener un registro de la humedad para determinar las condiciones de humedad del oxígeno en esa zona."/>

@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Guardar Datos"
+    id="id-1a0710f10bd1472eb37f7a18340de403"
+    documentation="El software debe registrar los datos en una base de datos NoSQL."/>

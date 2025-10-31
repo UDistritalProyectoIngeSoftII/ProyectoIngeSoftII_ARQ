@@ -1,4 +1,5 @@
 <archimate:Stakeholder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Docente"
-    id="id-fac4c7f9abfa4b9fbc798a8f7d774269"/>
+    id="id-fac4c7f9abfa4b9fbc798a8f7d774269"
+    documentation="Interesado principal en la validación académica, técnica y el cumplimiento de los estándares de Ingeniería de Software (ISO/IEC/IEEE 29148, 42010, 25010, 27000)."/>

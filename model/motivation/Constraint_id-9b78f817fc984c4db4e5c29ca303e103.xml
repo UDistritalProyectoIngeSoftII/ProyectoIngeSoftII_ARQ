@@ -1,0 +1,5 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Restricción Operacional Crítica"
+    id="id-9b78f817fc984c4db4e5c29ca303e103"
+    documentation="Restricción No Funcional (RNF-04, RCA-01): El software NO debe incluir lógica de protección Ingress (IP) y debe asumir un entorno de laboratorio controlado (sin humedad, temp. 10°C-25°C)."/>

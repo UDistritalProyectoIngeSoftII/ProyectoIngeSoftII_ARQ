@@ -440,15 +440,6 @@
         targetConnections="id-14ef89d4419344ab973babe4ab0bc744 id-98a1a6ad49e140789952c2f80e5bc828">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-3796ad93a3704af0978b4cec7daa9f06"
-          source="id-670794f434b649518411fe02d5347251"
-          target="id-0fa88579a3224c259d19b9ec56fcb22c">
-        <archimateRelationship
-            xsi:type="archimate:InfluenceRelationship"
-            href="InfluenceRelationship_id-54e6330221e54ddc802e988cfd544001.xml#id-54e6330221e54ddc802e988cfd544001"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-4f904d9a697749cfb147c3ef4871394c"
           source="id-670794f434b649518411fe02d5347251"
           target="id-0eafa4acf5d446229cf4bb0bf7ae2eaa">
@@ -586,15 +577,6 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-d044dd44a83a4273a8591c479a1a930e"
-        source="id-f86378d03de6452c82444c0a95d5fff8"
-        target="id-0fa88579a3224c259d19b9ec56fcb22c">
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_id-9fd87d3d01624f48a52c03b6dd2bdd65.xml#id-9fd87d3d01624f48a52c03b6dd2bdd65"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-922d459f121c4bbcadeef304745e8a9e"
         source="id-f86378d03de6452c82444c0a95d5fff8"
         target="id-b45479c6ff564970860650230ff4e39e">
@@ -708,19 +690,6 @@
       <archimateElement
           xsi:type="archimate:Goal"
           href="Goal_id-033a447074974e2a9ad8f5c33f79c324.xml#id-033a447074974e2a9ad8f5c33f79c324"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-0fa88579a3224c259d19b9ec56fcb22c"
-        targetConnections="id-3796ad93a3704af0978b4cec7daa9f06 id-d044dd44a83a4273a8591c479a1a930e">
-      <bounds
-          x="576"
-          y="32"
-          width="205"
-          height="46"/>
-      <archimateElement
-          xsi:type="archimate:Goal"
-          href="Goal_id-761f0481ccf748698d968b716a70200a.xml#id-761f0481ccf748698d968b716a70200a"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"

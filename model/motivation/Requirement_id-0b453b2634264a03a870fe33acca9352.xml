@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Acceso a Aplicación Web"
+    id="id-0b453b2634264a03a870fe33acca9352"
+    documentation="La aplicación web debe ser accesible desde navegadores modernos."/>

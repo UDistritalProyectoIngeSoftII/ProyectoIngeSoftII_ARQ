@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registrar Temperatura"
+    id="id-00be44d5767d40168a98b95bc47d2e28"
+    documentation="El software debe permitir tener un registro de la temperatura para determinar las condiciones climáticas en esa zona."/>

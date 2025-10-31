@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Recibir datos de sensores MQTT"
+    id="id-9097a0b0c5a3472db0eea6988b8271f2"
+    documentation="El software debe recibir datos de sensores MQTT"/>

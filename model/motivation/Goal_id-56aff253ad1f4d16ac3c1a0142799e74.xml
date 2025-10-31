@@ -1,0 +1,5 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Adherensia a estándares ISO"
+    id="id-56aff253ad1f4d16ac3c1a0142799e74"
+    documentation="Objetivo de Calidad (RNF-02): El proceso y artefactos deben seguir rigurosamente los estándares ISO/IEC/IEEE 29148, 42010, 27000 y 25010 (Funcionalidad, Usabilidad, Seguridad)."/>

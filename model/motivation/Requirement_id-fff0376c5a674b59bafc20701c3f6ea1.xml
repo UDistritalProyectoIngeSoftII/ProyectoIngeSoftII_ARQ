@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Actualizar Tiempo de Envío de Datos"
+    id="id-fff0376c5a674b59bafc20701c3f6ea1"
+    documentation="El software debe permitir actualizar el tiempo en segundos en que los dispositivos envían información, con una variable configurable en un archivo de propiedades por el usuario."/>

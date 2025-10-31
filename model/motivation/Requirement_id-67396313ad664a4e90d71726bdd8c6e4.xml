@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Validar Certificados"
+    id="id-67396313ad664a4e90d71726bdd8c6e4"
+    documentation="El software debe validar los certificados enviados por el dispositivo IoT."/>

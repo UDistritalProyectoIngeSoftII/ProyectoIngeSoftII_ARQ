@@ -1,0 +1,5 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Demostrar Cadena de Valor IoT"
+    id="id-7645c6652bd14566a08251ad19d57de4"
+    documentation="Objetivo de Negocio: Lograr un prototipo funcional que demuestre la cadena completa de valor (dispositivo -> nube -> usuario)."/>

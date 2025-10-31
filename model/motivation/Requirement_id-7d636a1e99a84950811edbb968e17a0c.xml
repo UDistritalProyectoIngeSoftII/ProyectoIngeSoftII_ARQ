@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registrar Ruido"
+    id="id-7d636a1e99a84950811edbb968e17a0c"
+    documentation="El software debe permitir tener un registro de ruido para determinar el nivel de decibeles en esa zona."/>
